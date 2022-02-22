@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on GUST@GNU/LUG</title>
+    <link>http://gdust.feldan.top/page/</link>
+    <description>Recent content in Pages on GUST@GNU/LUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gdust.feldan.top/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>http://gdust.feldan.top/%E5%85%B3%E4%BA%8E/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdust.feldan.top/%E5%85%B3%E4%BA%8E/</guid>
+      <description>广东科技学院 Linux 用户协会是由广东科技学院在校的 GNU/Linux 爱好者发起并组成的团体，旨在联合广科的 GNU/Linux 使用者，搭建信息交流共享的平台，宣传自由软件的价值，提高自由软件社区文化氛围，推广自由软件的应用。 咕咕咕 🕊🕊🕊🕊🕊 </description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>http://gdust.feldan.top/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdust.feldan.top/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://gdust.feldan.top/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdust.feldan.top/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

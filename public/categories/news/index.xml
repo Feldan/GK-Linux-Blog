@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on GUST@GNU/LUG</title>
+    <link>http://gdust.feldan.top/categories/news/</link>
+    <description>Recent content in news on GUST@GNU/LUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Sep 2021 02:17:56 +0800</lastBuildDate><atom:link href="http://gdust.feldan.top/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>广科手册</title>
+      <link>http://gdust.feldan.top/p/%E5%B9%BF%E7%A7%91%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Sat, 11 Sep 2021 02:17:56 +0800</pubDate>
+      
+      <guid>http://gdust.feldan.top/p/%E5%B9%BF%E7%A7%91%E6%89%8B%E5%86%8C/</guid>
+      <description>🖥服务与技巧 SID (Student ID) 相关 🆔学号  学号的含义  💳校园卡&amp;amp;学生证  校园卡  信息服务 🌐校园网络  校园网络介绍与连接指南  （包括无线网络，有线网络）    🐧Linux用户协会（LUG）服务建设中  💿GDUST开源软件镜像站：包含常用镜像与软件源 （未开放公网访问） 。  教学相关 👩‍🏫广东科技学院教学综合信息服务平台 查询成绩/课表/选课
+ 教务系统 - 内网 教务系统 - 外网 五育综合数据平台 - 内网  📅课表 (.ics) 生成  ClassTable2ICS食用教程  🏫教务处通知 第一时间获知考试/选课/活动信息
+ 教务处通知公告  通讯相关 📧电子邮件服务(教育邮箱)  电子邮件服务  💬企业微信  企业微信  软件授权 图书馆服务 关注公众号（广东科技学院图书馆）
+电子数据库  CNKI中国知网数据库（校内免费下载） CNKI中国知网数据库（校外访问入口） 广东科技学院 | 网络教学平台 广东科技学院图书馆馆藏数字资源服务平台（内网）  🕹️电子设备  路由器  </description>
+    </item>
+    
+  </channel>
+</rss>
